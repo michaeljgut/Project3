@@ -9,7 +9,7 @@ app.use(express.static('client/build'))
 // });
 
 app.listen(3001, function(){
-    console.log('Example app listening on port 3001 !')    
+    console.log('Example app listening on port 3000 !')    
 })
 
 
